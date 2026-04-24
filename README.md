@@ -128,5 +128,5 @@ README.md                                                            ← this fi
 
 ## Author
 
-**Paras** — Track 2: Statistics & Simulation  
+**Paras** — Statistics & Simulation  
 Part of a structured curriculum in Machine Learning & Data Science.
